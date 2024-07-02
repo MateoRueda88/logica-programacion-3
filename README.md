@@ -1,0 +1,1 @@
+Ejerciios  fundamentales para la practica y el desarrollo de la logica. utilizamos una plantilla html para correr nuestro programada desde el navegador, luego creamos un archivo js donde implementamos la logica necesaria para la ejecucion del programa 
